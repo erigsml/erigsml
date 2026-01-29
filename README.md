@@ -38,4 +38,7 @@ Apasionado por el desarrollo web, el arte, el cine y la naturaleza. Creo en apre
 
 *Siempre aprendiendo. tqm alocasias <3* 🌱
 
+
+*A quiet life.*
+
 </div>

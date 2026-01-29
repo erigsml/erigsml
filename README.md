@@ -36,6 +36,6 @@ Apasionado por el desarrollo web, el arte, el cine y la naturaleza. Creo en apre
 
 ---
 
-*Siempre aprendiendo, siempre creciendo* 🌱
+*Siempre aprendiendo. tqm alocasias <3* 🌱
 
 </div>

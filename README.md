@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola, Soy Erick!
+# Hola! Soy Erick
 
 **`Desarrollador | Ecuador`**
 

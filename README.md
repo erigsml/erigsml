@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://static.wixstatic.com/media/e6f56d_a2b47380e8504300bfb2844e4a8a5159~mv2.gif" width="80" align="left" style="margin-right: 20px;">
-
 # Hola, Soy Erick!
 
-**`Desarrollador Full Stack | Ecuador`**
-
-<br clear="left"/>
+**`Desarrollador | Ecuador`**
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/erigsml)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ErickZML)

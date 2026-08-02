@@ -25,7 +25,7 @@ Construyo software que termina usándose de verdad, no prototipos que se quedan 
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| **Consultorio Arrobo** | Sistema de gestión médica en producción: citas, asistencia biométrica, permisos por rol. | Node.js · Express · PostgreSQL · React |
+| **Consultorio Arrobo** | Sistema de gestión médica en producción: citas, facturación electrónica (SRI), inventario y catálogo de productos, asistencia biométrica, permisos por rol. | Node.js · Express · PostgreSQL · React |
 | **aLata** | Carpooling universitario en React Native, publicada en Play Store. | React Native · Expo · TypeScript |
 | **[ExitOne](https://exitone.us/)** | Insumos de impresión para negocios en EE. UU. | React · Vite · Tailwind |
 | **[Maqmine](https://maqmine.com/)** | Maquinaria de minería y procesamiento de áridos. | React · Vite |

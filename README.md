@@ -2,7 +2,7 @@
 
 # Hola, soy Erick 👋
 
-**`Desarrollador Full-Stack · Producto en producción · Agentes de IA con guardrails · Ecuador`**
+**`Full-Stack Developer · Agentes de IA · UX y valor real · Ecuador`**
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/erigsml)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ErickZML)

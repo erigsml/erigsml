@@ -2,117 +2,226 @@
 
 # Hola, soy Erick 👋
 
-**`Desarrollador Full-Stack · Sistemas RAG y agentes con guardrails · Ecuador`**
+**`Desarrollador Full-Stack · Producto en producción · Agentes de IA con guardrails · Ecuador`**
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/erigsml)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ErickZML)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/boazsml)
 
----
-
-<img src="https://images.squarespace-cdn.com/content/v1/57fec98c15d5dbb398bf1d96/1477164889526-UF3QQCWVYQSDIUKLO2JQ/bonsai.gif?format=750w" width="200">
+<img src="https://images.squarespace-cdn.com/content/v1/57fec98c15d5dbb398bf1d96/1477164889526-UF3QQCWVYQSDIUKLO2JQ/bonsai.gif?format=750w" width="180">
 
 > *"Deja que todo te suceda: belleza y terror. Sigue adelante. Ningún sentimiento es definitivo."*
 > — Rainer Maria Rilke
 
-Construyo software que termina usándose de verdad, no prototipos que se quedan en la carpeta. Estudiante de Ingeniería de Software en la Universidad de Guayaquil, apasionado también por el arte, el cine y la naturaleza.
+Construyo software que termina usándose de verdad, no prototipos que se quedan en la carpeta.<br>
+Estudiante de Ingeniería de Software en la Universidad de Guayaquil · apasionado por el arte, el cine y la naturaleza.
 
 </div>
 
 ---
 
-### 💼 Producción y clientes
+## ⭐ Proyecto principal
 
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| **Consultorio Arrobo** | Sistema de gestión médica en producción: citas, facturación electrónica (SRI), inventario y catálogo de productos, asistencia biométrica, permisos por rol. | Node.js · Express · PostgreSQL · React |
-| **aLata** | Carpooling universitario en React Native, publicada en Play Store. | React Native · Expo · TypeScript |
-| **[ExitOne](https://exitone.us/)** | Insumos de impresión para negocios en EE. UU. | React · Vite · Tailwind |
-| **[Maqmine](https://maqmine.com/)** | Maquinaria de minería y procesamiento de áridos. | React · Vite |
-| **[Dox-EC](https://dox-ec.com/)** | Impresión y gestión documental. | React · Vite |
-| **[Compustore](https://github.com/erigsml/COMPUSTORE)** | Landing page para tienda de tecnología. | HTML · CSS · JS |
+<a href="https://alata-ec.com"><img src="assets/projects/alata-hero.jpg" alt="aLata — carpooling universitario" width="100%"></a>
 
-### 🤖 IA aplicada
+### aLata — carpooling universitario en Guayaquil 🦎
 
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| **UGBOT** | Asistente RAG sobre documentación oficial universitaria, con citas verificables. | NestJS · PostgreSQL/pgvector · LLMs |
-| **Brokeate** | Agente financiero conversacional — ganador del hackathon ESPOL/FIEC. | LangGraph · FastAPI · Gemini/GPT/Claude |
-| **[AI BOTS](https://ai-bots.us/)** | Chatbots para agendar citas, con tool-use real sobre Claude. | Express · PostgreSQL · Anthropic API |
+App que convierte los viajes compartidos que antes se coordinaban en grupos de WhatsApp en un servicio formal y seguro: **solo universitarios verificados**, rutas hacia cada campus, chat en tiempo real entre conductor y pasajero, reservas y ganancias para el conductor. Hecha en equipo y **en producción en todos los canales**: Android, iOS y web.
 
-### 📰 CMS editorial
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.alataec.app)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/app/id6818165556)
+[![Web](https://img.shields.io/badge/alata--ec.com-F1B007?style=for-the-badge&logo=googlechrome&logoColor=black)](https://alata-ec.com)
+[![Instagram](https://img.shields.io/badge/@alata__ec-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alata_ec)
+[![TikTok](https://img.shields.io/badge/@alata__ec-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@alata_ec)
 
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| **[Voz Urbana](https://vozurbana-umber.vercel.app/)** | CMS brutalist para medio digital. | React · Vite · Tailwind |
-| **[TrendMix](https://trendmix.vercel.app/)** | CMS con soporte de fotos y video. | React · Vite · Cloudinary |
-| **[Fanzine](https://fanzine-beta.vercel.app/)** | Notas periodísticas, proyecto universitario. | React · Vite |
-| **[Pequeño Mundo Digital](https://pequemundodigital.netlify.app/)** | Mismo motor que Voz Urbana y TrendMix. | React · Vite |
+`React Native` `Expo` `TypeScript` `Node.js` `Express` `PostgreSQL` `Redis` `Socket.io` `React` `Vite`
 
-### 🎓 Académico
+<br>
 
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| **PetIte** | Gestión veterinaria, MVC en PHP puro. | PHP · MySQL |
-| **Literapp** | Club de lectura digital, trabajo en equipo. | Java Servlets · JSP · PostgreSQL |
+## 🤖 Doxi · AI Bots
 
-### 🧰 Otros
+<table>
+<tr>
+<td width="55%"><a href="https://ai-bots.us"><img src="assets/projects/aibots.jpg" alt="AI Bots"></a></td>
+<td width="45%">
 
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| **claude-kit** | Metodología propia para trabajar con agentes de IA. | Markdown |
-| **CV Interactivo** | Currículum web con exportación a PDF. | HTML · JS |
+**Agentes de IA que atienden a los clientes de un negocio** por chat web y WhatsApp: responden dudas, agendan citas y venden, con *tool-use* real sobre Claude y sin inventar datos.
+
+Incluye el [widget de chat embebible](https://ai-bots.us) (texto, voz e imágenes en una sola línea de código) y el panel con bandeja de conversaciones, agenda y tienda.
+
+[![Sitio](https://img.shields.io/badge/ai--bots.us-C8102E?style=flat-square&logo=googlechrome&logoColor=white)](https://ai-bots.us)
+
+`Express` `PostgreSQL` `Redis` `Anthropic API` `Stripe` `React`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 💼 Producción y clientes
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="assets/projects/consultorio.jpg" alt="Consultorio Arrobo">
+
+**Consultorio Arrobo**<br>
+Sistema de gestión odontológica en producción: citas, historia clínica, facturación electrónica SRI, inventario, asistencia biométrica y permisos por rol.<br>
+<sub>`Node.js` `Express` `PostgreSQL` `React`</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://maqmine.com"><img src="assets/projects/maqmine.jpg" alt="Maqmine"></a>
+
+**[Maqmine](https://maqmine.com)**<br>
+Sitio y catálogo para fabricante de maquinaria minera y de agregados en Quito, con arquitectura data-driven y multi-idioma.<br>
+<sub>`React` `TypeScript` `Vite` `Tailwind`</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://exitone.us"><img src="assets/projects/exitone.jpg" alt="ExitOne"></a>
+
+**[ExitOne](https://exitone.us)**<br>
+Insumos de impresión para negocios en EE. UU.<br>
+<sub>`React` `Vite` `Tailwind`</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://dox-ec.com"><img src="assets/projects/dox.jpg" alt="DOX"></a>
+
+**[DOX](https://dox-ec.com)**<br>
+Impresión y gestión documental en Ecuador.<br>
+<sub>`React` `Vite`</sub>
+</td>
+</tr>
+</table>
+
+## 🧠 IA aplicada
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://brokeate-web.vercel.app"><img src="assets/projects/brokeate.jpg" alt="Brokeate"></a>
+
+**[Brokeate](https://brokeate-web.vercel.app)** 🏆<br>
+Robo-advisor con asesor humano en el lazo: el perfil de riesgo se calcula en la base de datos y el agente explica los números, nunca los inventa. **Ganador del hackathon ESPOL/FIEC.**<br>
+<sub>`LangGraph` `FastAPI` `Supabase` `Gemini / GPT / Claude`</sub>
+</td>
+<td width="50%" valign="top">
+<img src="assets/projects/ugbot.jpg" alt="UGBOT">
+
+**UGBOT**<br>
+Asistente RAG que responde solo con documentación oficial de la universidad, con citas verificables a nivel de documento, sección y página.<br>
+<sub>`NestJS` `PostgreSQL` `pgvector` `LLMs`</sub>
+</td>
+</tr>
+</table>
+
+## 📰 CMS editoriales
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vozurbana-umber.vercel.app"><img src="assets/projects/vozurbana.jpg" alt="Voz Urbana"></a>
+
+**[Voz Urbana](https://vozurbana-umber.vercel.app)**<br>
+CMS *brutalist* para un medio digital; las notas se publican subiendo Markdown.<br>
+<sub>`React` `Vite` `Tailwind`</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://trendmix.vercel.app"><img src="assets/projects/trendmix.jpg" alt="TrendMix"></a>
+
+**[TrendMix](https://trendmix.vercel.app)**<br>
+CMS de entretenimiento con soporte de fotos y video.<br>
+<sub>`React` `Vite` `Cloudinary`</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://fanzine-beta.vercel.app"><img src="assets/projects/fanzine.jpg" alt="Fanzine"></a>
+
+**[Fanzine](https://fanzine-beta.vercel.app)**<br>
+Revista de cultura pop y notas periodísticas, proyecto universitario.<br>
+<sub>`React` `Vite`</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://pequemundodigital.netlify.app"><img src="assets/projects/pequemundo.jpg" alt="Pequeño Mundo Digital"></a>
+
+**[Pequeño Mundo Digital](https://pequemundodigital.netlify.app)**<br>
+Cuentos, canciones y juegos para niños, sobre el mismo motor de CMS.<br>
+<sub>`React` `Vite`</sub>
+</td>
+</tr>
+</table>
+
+## 🎓 Académico y otros
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<img src="assets/projects/doximotion.jpg" alt="Doxi Motion">
+
+**Doxi Motion**<br>
+Spot de producto de 25 s hecho 100 % con código.<br>
+<sub>`React` `GSAP`</sub>
+</td>
+<td width="33%" valign="top">
+<img src="assets/projects/petite.jpg" alt="PetIte">
+
+**PetIte**<br>
+Gestión veterinaria, MVC en PHP puro.<br>
+<sub>`PHP` `MySQL`</sub>
+</td>
+<td width="33%" valign="top">
+<img src="assets/projects/literapp.jpg" alt="Literapp">
+
+**Literapp**<br>
+Club de lectura digital, trabajo en equipo.<br>
+<sub>`Java Servlets` `JSP` `PostgreSQL`</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://github.com/erigsml/claude-kit"><img src="assets/projects/claudekit.jpg" alt="claude-kit"></a>
+
+**[claude-kit](https://github.com/erigsml/claude-kit)**<br>
+Mi metodología portable para trabajar con agentes de IA.<br>
+<sub>`Markdown` `Claude Code`</sub>
+</td>
+<td width="33%" valign="top">
+
+**[Compustore](https://github.com/erigsml/COMPUSTORE)**<br>
+Landing para tienda de tecnología.<br>
+<sub>`HTML` `CSS` `JS`</sub>
+
+**CV Interactivo**<br>
+Currículum web con exportación a PDF.<br>
+<sub>`HTML` `JS`</sub>
+</td>
+<td width="33%"></td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-**Backend**
+## 🛠️ Stack
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+**Backend**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,py,java,cs,php" />
 
-**Frontend & Mobile**
+**Frontend & Mobile**<br>
+<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,astro" />
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+**Datos, deploy & herramientas**<br>
+<img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,redis,docker,git,figma,vercel,netlify,aws" />
 
-**Bases de datos**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**IA & Automatización**
-
+**IA & automatización**<br>
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-**Herramientas & Deploy**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-**Cloud**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
